@@ -7,7 +7,7 @@ import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
-from email.utils import parsedate_to_datetime
+from email.utils import format_datetime, parsedate_to_datetime
 from zoneinfo import ZoneInfo
 
 LOOKBACK_HOURS = 48
@@ -133,7 +133,57 @@ def main():
     stories.sort(key=lambda s: (s["score"], s["dt"]), reverse=True)
     stories = stories[:MAX_STORIES]
     write_page(stories, now)
-    print(f"{len(stories)} stories from {ok}/{len(FEEDS)} feeds")
+    posted = write_feed(stories, now)
+    print(f"{len(stories)} stories from {ok}/{len(FEEDS)} feeds; {posted} new social posts")
+
+SITE_URL = "https://jcbriney71-hub.github.io/AI-drama-Daily/"
+POSTS_PER_DAY = 3
+FEED_KEEP = 45  # ~2 weeks of posts
+
+def write_feed(stories, now):
+    """feed.xml: up to POSTS_PER_DAY new items per run for social auto-posters.
+    Keeps prior items, skips headlines already posted, never re-posts on the same day."""
+    from xml.sax.saxutils import escape as x
+    day = now.astimezone(ZoneInfo("America/Chicago")).strftime("%Y-%m-%d")
+    old = []
+    try:
+        root = ET.parse("feed.xml").getroot()
+        for it in root.findall(".//item"):
+            old.append({k: (it.findtext(k) or "") for k in ("title", "link", "guid", "pubDate", "description")})
+    except Exception:
+        pass
+    if any(o["guid"].startswith(day + "-") for o in old):
+        new = []  # already posted today (e.g. a manual re-run)
+    else:
+        posted = {norm(o["description"]) for o in old}
+        picks = [s for s in stories if norm(s["title"]) not in posted][:POSTS_PER_DAY]
+        new = []
+        for i, s in enumerate(picks, 1):
+            headline = s["title"]
+            text = f"{heat(s['score'])} {headline} ({s['source']}) — today's full AI drama roundup:"
+            new.append({
+                "title": text,
+                "link": f"{SITE_URL}?d={day}&n={i}",
+                "guid": f"{day}-{i}",
+                "pubDate": format_datetime(now + timedelta(minutes=i)),
+                "description": headline,
+            })
+    items = (new[::-1] + old)[:FEED_KEEP]
+    body = "\n".join(
+        f"""<item><title>{x(it['title'])}</title><link>{x(it['link'])}</link>
+<guid isPermaLink="false">{x(it['guid'])}</guid><pubDate>{x(it['pubDate'])}</pubDate>
+<description>{x(it['description'])}</description></item>""" for it in items)
+    feed = f"""<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"><channel>
+<title>AI Drama Daily</title><link>{SITE_URL}</link>
+<description>The juiciest AI headlines, refreshed every morning.</description>
+<lastBuildDate>{format_datetime(now)}</lastBuildDate>
+{body}
+</channel></rss>
+"""
+    with open("feed.xml", "w", encoding="utf-8") as f:
+        f.write(feed)
+    return len(new)
 
 def write_page(stories, now):
     central = now.astimezone(ZoneInfo("America/Chicago"))
@@ -158,6 +208,7 @@ def write_page(stories, now):
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>AI Drama Daily</title>
 <meta name="description" content="The juiciest AI headlines, refreshed every morning.">
+<link rel="alternate" type="application/rss+xml" title="AI Drama Daily" href="feed.xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Anton&family=Inter:wght@400;600&display=swap" rel="stylesheet">
 <style>
