@@ -8,6 +8,7 @@ import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
+from zoneinfo import ZoneInfo
 
 LOOKBACK_HOURS = 48
 MAX_STORIES = 30
@@ -135,7 +136,7 @@ def main():
     print(f"{len(stories)} stories from {ok}/{len(FEEDS)} feeds")
 
 def write_page(stories, now):
-    central = now.astimezone(timezone(timedelta(hours=-5)))
+    central = now.astimezone(ZoneInfo("America/Chicago"))
     stamp = central.strftime("%A, %B %-d, %Y · %-I:%M %p CT")
     e = html.escape
     if stories:
