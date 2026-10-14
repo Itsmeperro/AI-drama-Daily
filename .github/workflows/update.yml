@@ -20,13 +20,41 @@ jobs:
       - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
-      - name: Build page
+
+      - name: Build page and feed
         run: python build.py
+
       - name: Commit if changed
         run: |
           git config user.name "ai-drama-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add index.html feed.xml status.json
+          git add index.html feed.xml status.json today.json
           git diff --cached --quiet && echo "No changes" && exit 0
           git commit -m "Daily update $(date -u +%Y-%m-%d)"
           git push
+
+      - name: Install video tools
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg fonts-dejavu-core >/dev/null
+          pip install -q edge-tts gTTS pillow
+          mkdir -p fonts
+          curl -fsSL -o fonts/Anton-Regular.ttf https://github.com/google/fonts/raw/main/ofl/anton/Anton-Regular.ttf || true
+
+      - name: Make today's video
+        id: video
+        continue-on-error: true   # never block the site update
+        run: python make_video.py
+
+      - name: Publish video as release
+        if: steps.video.outcome == 'success'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          TAG="video-$(TZ=America/Chicago date +%F)"
+          gh release delete "$TAG" -y --cleanup-tag 2>/dev/null || true
+          gh release create "$TAG" drama.mp4 thumbnail.jpg caption.txt \
+            --title "AI Drama Daily — $(TZ=America/Chicago date '+%a %b %-d')" \
+            --notes-file caption.txt --latest
+          # keep the 14 most recent daily videos
+          gh release list --limit 100 --json tagName -q '.[].tagName' | grep '^video-' | sort -r \
+            | tail -n +15 | xargs -r -I{} gh release delete {} -y --cleanup-tag

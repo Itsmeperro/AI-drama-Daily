@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Build index.html for AI Drama Daily from public RSS feeds (stdlib only)."""
 import html
+import json
 import re
 import sys
 import urllib.parse
@@ -129,7 +130,6 @@ def main():
                 continue
             seen.add(k)
             stories.append(s)
-    import json
     with open("status.json", "w") as f:
         json.dump({"built_utc": now.isoformat(timespec="seconds"), "feeds_ok": f"{ok}/{len(FEEDS)}",
                    "feeds": status}, f, indent=1)
@@ -139,6 +139,10 @@ def main():
     stories.sort(key=lambda s: (s["score"], s["dt"]), reverse=True)
     stories = stories[:MAX_STORIES]
     write_page(stories, now)
+    with open("today.json", "w") as f:
+        json.dump({"built_utc": now.isoformat(timespec="seconds"),
+                   "stories": [{"title": x["title"], "source": x["source"], "score": x["score"],
+                                "link": x["link"]} for x in stories[:10]]}, f, indent=1)
     posted = write_feed(stories, now)
     print(f"{len(stories)} stories from {ok}/{len(FEEDS)} feeds; {posted} new social posts")
 
@@ -228,6 +232,7 @@ h1{{font-family:Anton,Impact,sans-serif;font-weight:400;font-size:clamp(44px,12v
 h1 span{{color:var(--red)}}
 .date{{display:flex;justify-content:space-between;font-size:13px;color:var(--muted);border-top:1px solid var(--ink);margin-top:12px;padding-top:6px;text-transform:uppercase;letter-spacing:.06em}}
 a{{color:inherit;text-decoration:none}}
+.vid{{display:inline-block;margin-top:12px;font-weight:600;font-size:14px;color:var(--red)}}
 .lead{{display:block;margin:24px 0;padding:20px;background:var(--red);color:#fff;border-radius:4px}}
 .lead h2{{font-family:Anton,Impact,sans-serif;font-weight:400;font-size:clamp(28px,6vw,40px);line-height:1.08;margin:8px 0 10px}}
 .lead .meta{{color:#ffe1dc}}
@@ -244,7 +249,8 @@ footer{{margin-top:28px;font-size:12px;color:var(--muted);text-align:center}}
 </style></head>
 <body><div class="wrap">
 <header><h1>AI <span>Drama</span> Daily</h1>
-<div class="date"><span>{e(stamp)}</span><span>{len(stories)} stories</span></div></header>
+<div class="date"><span>{e(stamp)}</span><span>{len(stories)} stories</span></div>
+<a class="vid" href="https://github.com/jcbriney71-hub/AI-drama-Daily/releases/latest/download/drama.mp4">▶ Today's 60-second drama video</a></header>
 {lead_html}
 <ol>
 {rows}
