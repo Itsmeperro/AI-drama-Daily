@@ -106,13 +106,15 @@ def heat(s):
 def main():
     now = datetime.now(timezone.utc)
     cutoff = now - timedelta(hours=LOOKBACK_HOURS)
-    stories, seen, ok = [], set(), 0
+    stories, seen, ok, status = [], set(), 0, {}
     for url in FEEDS:
         try:
             items = parse(fetch(url), url)
             ok += 1
+            status[url] = len(items)
         except Exception as e:
             print(f"feed failed: {url} ({e})", file=sys.stderr)
+            status[url] = f"error: {e}"[:200]
             continue
         for s in items:
             if s["dt"] < cutoff or s["dt"] > now + timedelta(hours=1):
@@ -127,6 +129,10 @@ def main():
                 continue
             seen.add(k)
             stories.append(s)
+    import json
+    with open("status.json", "w") as f:
+        json.dump({"built_utc": now.isoformat(timespec="seconds"), "feeds_ok": f"{ok}/{len(FEEDS)}",
+                   "feeds": status}, f, indent=1)
     if ok == 0:
         print("all feeds failed; keeping existing page", file=sys.stderr)
         sys.exit(1)
