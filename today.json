@@ -1,17 +1,11 @@
 {
- "built_utc": "2026-10-21T11:41:23+00:00",
+ "built_utc": "2026-10-22T11:41:22+00:00",
  "stories": [
   {
-   "title": "Lawsuit accuses Meta of misleading consumers with expiring AI glasses deals",
-   "source": "Top Class Actions",
-   "score": 9,
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOb3hXc0tRcmNfWGVBOFJCQU5YaWRYWjVzMEdGMUNPOEVpckJ1TEkySmtlTzFYZi14UzZibXhtSk9lM2ZQVERYbTVtQml6UEd4cDhVMDhmUUxMeThPZnlkenpaUS11Z3pvTzM1cWE1YzlhWW90MmdVQ2hIbXdfdjVmTjc4QVpOVF9WUC1SaUdVSUVUYU16NENqOHZ6bGJkX2NMbVNZT1lBdnFzLVlSU0VnMHJKRmZCaTlZMGdQaS1fanZrRzVSSF8zbENB?oc=5"
-  },
-  {
-   "title": "How a foreign government helped accused Saudi spy's family flee US after OpenAI bug scandal",
-   "source": "Fox News",
-   "score": 9,
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYXpoN2lVdkJtOWNzdlJDQXA2MFhkb29iRlVSWGprd3hQTFRmWDhVbWhubGhSNUhZSWN4QXBTUmJVNDQ2d244SjJnd2JwRXRvQ0szSDY0MVNPREtFVW9tc25TQjk5RHFkajZmbjF4MkQyZ2RQQXc1Z1V4cXJ5eVFlU0VheFBKXzlLTFZqYWNQU1JSTENlc3hZbFFBcHduS3FpM3hOdWdYRW5ZdVNnUGdj0gG0AUFVX3lxTE5ZVEt2cjJjVS1rMjRESk5hV2RpRzAyb1JUT1JnT3l0THV1SmRCbllaZzFKR2NDVzdXV0hUUFQ3dk9oRmZsemxfUVNsdGpnSnRnLU1pZDNOUEZMS0FWak5YZFVPalIwSjdoeEtsS1dGOEQ2S2U2VzhnMEphemdwRFRUVy04YU5ySEt4Z0ZsSnBrVXlHdHRwSjFIdDctY2o0azZGUHJSenNVY2stMHo3Q3hFRnhnMA?oc=5"
+   "title": "Anthropic sued by major Canadian news publishers for copyright claims in Ontario court",
+   "source": "Radio-Canada",
+   "score": 8,
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZjZGbnU3UHRmZTFLX0lfb2QtRER0WXhhcTNleld5eDJhOU9iN283Z3VBYkN6dUFVUzdGMTlJZ0JLSFVOclNyYVd5cEJLV2xjeFNlajhsc2NPQnVBZ3lQbm1NUzF3Z3NwYnVkcnJ1U3JDaVRLQmZlblNJUHFpemRwMzBtUnFpUG5heEJ5bU9xWW5rMWktcU10NGNNcmNmVGkxemZNTU9kdlFOODRjUzJQOHNhOW9wUlpDT3h2UVlIa0JqaHk0eEpybF9LTDdGS3c?oc=5"
   },
   {
    "title": "Lawsuit Filed Against Tennessee Officials Over \u201cSecret\u201d Meetings Shaping Classroom AI Policy",
@@ -20,28 +14,40 @@
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUjBKTFVRcDF5cTFFUFN4R1VQcml5a0hCSU8zRVU3aVVraWQ5cFRCcXkxdUp1M3NULWl0cjlxV1BfemlfUElqcmJkaHluTHR5a0NqdWd2WWxIbGhDdzRCdDdKeEJoLV9yWFdsS1hnbTRBUkIxV2loZmxSNU9TZk8xUUdYTWcxaE1sYVVoQXZvRkRYYnhtUF9weFg4OXNJc0dJZEwtLVJrSDFPUEZDa21XeEI2U0czZWNCcS1PcjZJNl9UWmNtSzhTQQ?oc=5"
   },
   {
-   "title": "Meta Sued by Hundreds of Authors in AI Training Copyright Cases",
-   "source": "Bloomberg Law News",
-   "score": 8,
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT3lJSmNhSmJQQllDTWdUZ09heHJKSHZKWTVFLUxCZkJoUV96c0NSblFXeGNSdlJxd0R1S0xnLXFaeUUxeG9nRXNLN29ydGNRWjNlMVJ2ZVZkT3Zzb3ZkM0cwanpUUDNfQW8tVGgxWFRJTFRiY21yZGJETlBVbm1qUUVpUXFwOXhWZEhDY3d3c05vQzU3Z3RtVzg5d2trQWhVckE?oc=5"
-  },
-  {
-   "title": "Anthropic sued by major Canadian news publishers for copyright claims in Ontario court",
-   "source": "CBC",
-   "score": 8,
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRlBzRzJOclVTWWVNQVd5VFVYRkVOQVB3MUxfNFZTTEZ4ZkU1QkxjMUtQS19YRlhLLWx4c1hjTHBVSW9jQ3FvbWJldkRtODR2SG9sMjhWVENudlB0YWZBcmg5MHZzcUc2M0syc2t1Y1ZITE9qRWNVZzRkUW9rZWx6VHpHWTkyNlRMUzAwX3RTWHRYVHc0RWI5NG1DMy1UanhQVG5tc2M3bzRkcnRiMHc?oc=5"
-  },
-  {
-   "title": "Revealed: Claude Code's 510,000-Line Leak Exposes the Hidden 60/40 Secret of AI Engineering Success",
-   "source": "Alpha Match Technology",
+   "title": "Anthropic and Music Publishers Clash Over AI Training and Copyright Fair Use",
+   "source": "The420.in",
    "score": 7,
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE51UUx1YzBrclREUUtIQlNHblpRTnpJcjZ3WHRacXJXZVFFZm0zMmlEWjhuVWVscU1zdEZ2dC1yUTQ2N2tsTmxRa2k1STVDeFhMYnp4S0JqRXc3VkIwVFEtRnpyMnhaVXhZaDcwN0Y1OHEzcTZnZ0dJazQxVG0?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaTNpSGx5S0pCQjNZMUtIb3p3S2FVRU5hRk14Z2p3emc1NkVtbEZWQjFua3dBdjhDN2tSdTJ4NGhtQ3lvY2UwdDlCNWMxaXRiQmdWZkRhanlSOW80NkI0OHN1OFdyb2hQdXdmY3NDOTgzSjVCSjhvWE9WYko0UTk0SS1R?oc=5"
   },
   {
-   "title": "OpenAI CEO Sam Altman wins dismissal of sister Ann Altman\u2019s sexual abuse lawsuit: Court dismisses case...",
-   "source": "Moneycontrol.com",
+   "title": "Australian authors fight the watering down of copyright law for AI",
+   "source": "ArtsHub",
+   "score": 6,
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTmdBWU1fZXJhRzN3cWFLR0hNLW1KT2EwMm1aRkpiRVJabk9kZjNVRzRsZWJWZVZKb0xjcTFvSjBHTmZVQWtDeWI5U2VLa0pNYjQxbTZ4SElRU0Y1N2dXR09SYXR0cjBaelpCMzNCR1RzOHpKZFJWMDEzdzlLUXNYZTUxWGNXc2Q4WDRIZzBQZ3FlM3RFSjJla05rSlFMaVQ2Z3gxWWFtVVI5RG51UTlNV1Z3?oc=5"
+  },
+  {
+   "title": "When AI Meets Copyright: SOCAN v Suno and the Broader AI Copyright Landscape",
+   "source": "McMillan LLP",
+   "score": 6,
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZEhDS3VwNmkwNGkwTERwYzA2cTdyNTBDTUVleG00anozN00zUDJWREE2NmRkd21rMHZWNFlXZW5WWlNONU10TXBHcTRNMlA4VHprZnY2ZUtvX2VodEJoeXpiTE5qWTUwSTViSGVhdi1OajczNG9KVUlrUnZVU1o5Tk01eko2RkJoYTZMa2tYMnk4Q1lva1BKVVpRb1ktWTk0ek85QnB0NER6RVMxNUVMOWs4VG5PeWRDZ1E?oc=5"
+  },
+  {
+   "title": "Anthropic books colossal $81B loss, warns of data center backlash as Amodei siblings draw modest salaries",
+   "source": "New York Post",
+   "score": 6,
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOM05ob1EwT3dwb2hDMjM2Skg4UVRYVW1DTW1ZVFJtdW9GYm5kZjhTSlVrdWFBN0tPT3FWaE1sX1kzdEdVTWxsd0w5LUJ4cGxLUm5XdDFXVXdkQ2xFazF5MnE5bkRDRE5DMEk2aUE2ZWU3UjJkSXBTSjU3aFJnMW9HNUlJRnJzRml4M01udGNWLTdIM2JZVDVweG14MDFMQjNWRE9JQWlDYnhfM25QdnRqemljRWMxbndNVE52aHNFRktGMEFobzJUUXQyQVlGSVdhMl85aUpvbzJNNHhjUXc?oc=5"
+  },
+  {
+   "title": "Was a Viral AI Safety Whistleblower Part of a Russian Influence Campaign?",
+   "source": "HackerNoon",
    "score": 5,
-   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPRWxkSmdiZDFGdEpQb2l4Zjl6bm9DWkJ6ckg5VFMwRm5Fdlg5ZFRqWG03X0ZYNk0yRDF5NDhzY2wycXBpdmpkNnRUMWc3NVJXZEJyb0tKa0ZvRjZ0R1F2Wm1ueEVNYUhiWHltM1Z2SDdUR2lJZG5RNG9NSWVab0VtclV6VUhUeTVUT2VkQ2xwblZPQkpDQTIya2w4Rk81QXJNVHYybnQ4aXBBdHhEXzU5WjNpMVdHX0JmZVJOZ0pjVE1PNFNaWnNBWU5rVm5VamE5WndMbkdXMUdtWTJBSGFtcFg2aDR4UWdnblJxNWVJb2hHNjBwdHdlRUlMQ3hKRGpqdzFuMF9ZNHExTzhyVHVn0gGPAkFVX3lxTE9FbGRKZ2JkMUZ0SlBvaXhmOXpub0NaQnpySDlUUzBGbkV2WDlkVGpYbTdfRlg2TTJEMXk0OHNjbDJxcGl2amQ2dFQxZzc1UldkQnJvS0prRm9GNnRHUXZabW54RU1hSGJYeW0zVnZIN1RHaUlkblE0b01JZVpvRW1yVXpVSFR5NVRPZWRDbHBuVk9CSkNBMjJrbDhGTzVBck1UdjJudDhpcEF0eERfNTlaM2kxV0dfQmZlUk5nSmNUTU80U1pac0FZTmtWblVqYTlad0xuR1cxR21ZMkFIYW1wWDZoNHhRZ2duUnE1ZUlvaEc2MHB0d2VFSUxDeEpEamp3MW4wX1k0cTFPOHJUdWc?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeThXdGlwR2JaVmZnd1E3OFk5eWlBVFVJZEJDZW1UYlIwU2p2SkJKWjhtd0xzUlFzNDVkS3JfOXVOaGFSUkhmbkVYLTNQczMwZUhZSmhDN3l2N1FGNmhLUDAtdlotQmx1amFZSWVIYW1sMUE2UVhOSnVXTkZqMWwzRlA4UkRRQzFCZGJnb1hZWlA2SEc3QTBfWFBXUQ?oc=5"
+  },
+  {
+   "title": "News generative AI deals revealed: Who is suing, who is signing?",
+   "source": "Press Gazette",
+   "score": 5,
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbmlBOGF2YlY3cWZ0dXBrNWU2WV8yMGtJVjFCRUx2eUs3b0NNTzBsenpyOEloaVppUlpMOGxOMWtRX3BJYkcxbV9mZ1d5VzZLMmMzM1RNcXUycnRRTGpKV21FT3dJVkpuYTdQeEdJbzgwdUpJcV9kMEVwbkN3VDZKUVV1RlNEVVI5ZGN4eA?oc=5"
   },
   {
    "title": "OpenAI CEO Sam Altman wins court dismissal of sister\u2019s lawsuit",
@@ -50,16 +56,10 @@
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZ3Bka1M2MW9GU0pMZUdXVmNwdDRnMjNxSzBaX3lYdV9fTDNydnhFNmVIVlRab05ZQnEtdDNpNUFSc1R0Nnh4Njdub1A2VGstdERhbDFLY09ib0V2dUNYOUpaSmZERDd4S0hxVlVOay03SFlmRUwzZWExMjY5a3kzc2JNd09fYWNSNDA0SHB4Vmt4RXA4blpFZnF4b2lEYmMzNEN0X3lIU21xQmfSAasBQVVfeXFMTmdwZGtTNjFvRlNKTGVHV1ZjcHQ0ZzIzcUswWl95WHVfX0wzcnZ4RTZlSFZUWm9OWUJxLXQzaTVBUnNUdDZ4eDY3bm9QNlRrLXREYWwxS2NPYm9FdnVDWDlKWkpmREQ3eEtIcVZVTmstN0hZZkVMM2VhMTI2OWt5M3NiTXdPX2FjUjQwNEhweFZreEVwOG5aRWZxeG9pRGJjMzRDdF95SFNtcUJn?oc=5"
   },
   {
-   "title": "Lawsuit alleges OpenAI 'stole' children's user data",
-   "source": "Mashable",
+   "title": "China urges US to withdraw DeepSeek procurement ban, warns of countermeasures",
+   "source": "MLex",
    "score": 5,
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NRFpvc2tkZzhkUl9ZSmwxZlVsdERqSWQ4cUI0UjV6bU5FR2IzTWZCdXNVeDFNYkE2Yy1VWEx6aEdpMndRTWVtWGZLLVNnNmlvMXpmX3cyWDlhSG9rZk0tYmhzbjdwZw?oc=5"
-  },
-  {
-   "title": "US Court Dismisses Ann Altman\u2019s Lawsuit Against OpenAI CEO Sam Altman",
-   "source": "Mezha.net",
-   "score": 5,
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Pb05yeXhRWGtsOVhUWHFDNGRXSmp5dFB2RVVXY0x6RXpaNnZtUWZvYm5Nb295OFR6SGlpTDFZaHBKbzJDcEtQOEhNMU1iWWR5SE50Q1E5M3NGQTNGdUpGVXJfRXFCbU91WWtv?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOaXN1RzY4RWk3WU9qNFhhN0o4aTZvakdSZU1oNmZnU1pZaHlEOElxeDZvZVFUNTIwaXJ5Vnl5TUJENjM4OGlvVG9jN1JXTUVzMlllUFNUYmlhNlQ4ZFZJT29zVm11bTdQcWdOVWd3Y2swRDIxYWJCMF9EcnFVd2hSR2lfcjJILU5EVXpfWHZ1blplbTZWTjlVTU5rdTJNaVJrZHAwcTM1ZmMtTnFlTTYxR3gzT0VDTWtvUUIwLXlFZUptOElST3lHbFhEelpGd2dfeWQ5cjBBVkc0S1XSAVpBVV95cUxOUGFlRURlVW9sbVNfUzgybjhkbkpjY3ZXZXhZTlJMcVJhNFZrTWMwMFVRYVIwR1d2YXFOczBrNlZZS3libmlnc2ZMVXNwVC1fWGw2MFhrWUdnRlE?oc=5"
   }
  ]
 }
