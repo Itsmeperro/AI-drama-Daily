@@ -1,11 +1,11 @@
 {
- "built_utc": "2026-10-26T12:16:40+00:00",
+ "built_utc": "2026-10-27T11:43:34+00:00",
  "feeds_ok": "8/8",
  "feeds": {
-  "https://news.google.com/rss/search?q=%28OpenAI+OR+Anthropic+OR+%22Google+DeepMind%22+OR+xAI+OR+Meta+AI+OR+Nvidia%29+%28lawsuit+OR+sued+OR+feud+OR+ousted+OR+resigns+OR+scandal+OR+leak%29+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen": 51,
-  "https://news.google.com/rss/search?q=%22artificial+intelligence%22+%28lawsuit+OR+controversy+OR+backlash+OR+investigation+OR+ban+OR+fine%29+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen": 66,
-  "https://news.google.com/rss/search?q=AI+%28deepfake+OR+copyright+OR+antitrust+OR+subpoena+OR+whistleblower%29+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen": 60,
-  "https://news.google.com/rss/search?q=%28Sam+Altman+OR+Elon+Musk+OR+Dario+Amodei+OR+Mark+Zuckerberg+OR+Sundar+Pichai%29+AI+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen": 7,
+  "https://news.google.com/rss/search?q=%28OpenAI+OR+Anthropic+OR+%22Google+DeepMind%22+OR+xAI+OR+Meta+AI+OR+Nvidia%29+%28lawsuit+OR+sued+OR+feud+OR+ousted+OR+resigns+OR+scandal+OR+leak%29+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen": 89,
+  "https://news.google.com/rss/search?q=%22artificial+intelligence%22+%28lawsuit+OR+controversy+OR+backlash+OR+investigation+OR+ban+OR+fine%29+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen": 31,
+  "https://news.google.com/rss/search?q=AI+%28deepfake+OR+copyright+OR+antitrust+OR+subpoena+OR+whistleblower%29+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen": 53,
+  "https://news.google.com/rss/search?q=%28Sam+Altman+OR+Elon+Musk+OR+Dario+Amodei+OR+Mark+Zuckerberg+OR+Sundar+Pichai%29+AI+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen": 4,
   "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml": 10,
   "https://techcrunch.com/category/artificial-intelligence/feed/": 20,
   "https://www.wired.com/feed/tag/ai/latest/rss": 10,
