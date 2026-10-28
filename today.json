@@ -1,12 +1,6 @@
 {
- "built_utc": "2026-10-27T11:43:34+00:00",
+ "built_utc": "2026-10-28T11:50:25+00:00",
  "stories": [
-  {
-   "title": "Anthropic, an artificial intelligence (AI) company, is facing a copyright lawsuit over allegations t..",
-   "source": "\ub9e4\uc77c\uacbd\uc81c",
-   "score": 12,
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB5NWhxdVA3R1R2ZkJtYkNtVjBUZl9ZZGljbktvYkpLWVUyODBIODdYRHhTaFp1SDlZbnF6cjVxREpQRlVzV0hlTFJQd2cyRWs?oc=5"
-  },
   {
    "title": "L.A. Film School Escapes Whistleblower Lawsuit as Judge Punishes Lawyer for AI Use",
    "source": "Variety",
@@ -18,6 +12,18 @@
    "source": "International Business Times, Singapore Edition",
    "score": 9,
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN3UzVURkM2FqeTVVekhBZFNrTGk3YlZKZ2FTOWVWQ1R5NEQ1end0WmptWkxxVGNoSHMxSi0wN0dQOFloUGE2RlZaelNyWjRBNmlXMkhqWkpWdFptMFR1Ylk1THJ5TV85MXRnbFNBQ2lrU291VFJZOWtSWU1aejRUN0c2RkVfeV9Gd3hReUxDOW01MmVsdklsMkpfTzJnUXlGaFNYSlp2QmgxajFWeXp4anpnNW0wRFNqQV9Z?oc=5"
+  },
+  {
+   "title": "Twitch Star Pokimane Says AI Deepfake Scandal Involving Atrioc Still Triggers 'Fight-or-Flight'",
+   "source": "www.techtimes.co.uk",
+   "score": 8,
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNjdsTkNCWmZvdElGdEhZVlhpTFRrbWE3bkIzR2FpQUVfek5td19UT05ySjRqbmNoaXo2Ul9KcVBzZ0piakVhMmNfcU50bkowUk5oeGFDaWJyVWdJTmtrLWU5MnFfUzJEb3JBaG9OdzBYTU9xc2xtN0o5X19jVThpVW5n?oc=5"
+  },
+  {
+   "title": "Anthropic Faces $41 Million Copyright Lawsuit Over Elvis Presley Songs",
+   "source": "Law Commentary",
+   "score": 8,
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcTNlU0JsZzNIZGpKcnptRzlPS3cwV19SMWFxNWtqZUUxSFJQWWY3QkhZTmlmS2MzODJ5N2prT3hIbmpQWkdIYlluUEp2aE9pSVhMOTdxd2xFM0MtOG5FUGh5UWFPWk5lWmpPYmZsQW4tU3Jad3V5S0UyMzV2eFFPdk44ZU03S3NYYnk5NXVtdjFKQ3g4S1VkRDl3?oc=5"
   },
   {
    "title": "Elvis Presley Song Rights Holders File $41 Million Copyright Lawsuit Against Anthropic",
@@ -32,10 +38,10 @@
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQUxoRGxmTUFkc0J3aFJrSnJDRFp5angyS2NTdGZubVBpTDMza0FlZUtvRzB4V2ZGWEQ3eGVFOFhwQmgxWk81aHhFaDAwaGMxTlVWRUlVdUFQR2tDQ0k3WHlUVEdYRjVTS2t0eUJFS285aGMzTHctWkM5el96VzF5QXJ6YW9lYmlLMTlNYlZJaFl2TUJxUmhMUmNR0gGfAUFVX3lxTFBzSWhhbTMzNjhGWUZQOWV2bHVYLVNkcjNXbi01N0lyc1dsb2lzQ2dxcDRHTUFjQ2R2SURCSHpHaVZaWnFCYm1ET3g0clJwV2g3SzF2XzZNdmRTYUdvVlVOdmtBeHdzUnNCbjBWcF9CNkRqQjVHNldXaGVFR1c5UnFURUtDZ3hKNFlhcy1Vb1NETHJ0SXNwcmV5RHhoajVmNA?oc=5"
   },
   {
-   "title": "Late Elvis Presley Joins These Celebrities In The Fight Against AI With a $50 Million Lawsuit",
-   "source": "The Blast",
+   "title": "Mercor Breach: 4TB Data Leak Claims Shake AI Industry",
+   "source": "TechJuice",
    "score": 8,
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYmczTkYzWURjbnRoWUFsWlUtQnNhYW5fa1JId0lpVU0ta2dSbmlsbXlrbzlsOVBJcndmM3JPM3VHa0RRQy1VOW5Gem5WVnlFRERVbkdzanE5bHRNcjJnMXdQQ2FBNGE1ZDFKZkJEM2RsV1d6dGZfVEVydGh6X2VGdmRack15b05CMmc?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQb1R1d2QxYVh0OTBIVXpNOHd4X0JCVER0SlhKOTBXMy0yajdPaHV3ZU81RV9VSmJOTGhBVGlJVHZVMWhja0pNLVZWMDU2UTctOWd1a3hhdEY0aEV4alNtOS1JUkc5X3B2Zm9Da0h4eXhBQ3pIZWlyZVJpOFE5N1o5SmgyVzEza19mUUpGRHlibzBMbWFXN0ZNUw?oc=5"
   },
   {
    "title": "Reservoir Sues Suno and Anthropic Over AI Music Copyright, Seeking Nearly $338 Million",
@@ -54,12 +60,6 @@
    "source": "primetimer.com",
    "score": 8,
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdHRIbGdSaXZWSUEtSHhHZkpBbFFNMTR6S3dlbGtYcUNFUmNTWWZUTUVZMEloVWkxRW4tSV96S0ZLNzNxTXNoZXV2Y1l4U1VlOVNEUm44TjlSNUY1NUZiWjhOeHpYUV9BS1I1NThkUUF1cFZkcjBxWmprY1daX2diOE5wS1YxdTRyWGRxcHR0Z2ZuZDJ4VnJLNWJFVE1va2FkeTBKaHhKVGd2S29vRmZmUlJjaHNkeDhsS1dkSzdEVXlsOXpIQkJsaA?oc=5"
-  },
-  {
-   "title": "Anthropic Sued for Alleged Copyright Infringement of Elvis Presley Songs",
-   "source": "Newsmax",
-   "score": 8,
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNS1FKR0VzZW93SlhNSG5MVmFzN1dvU3dLVzRyX0RQcEVMWlgyWmdESnBPVDNOdkJWUVREMjNaQ3pDQ2t6ZnB6Mlp6c25JdjlPRnUyRU8tR0k4a1hQc1Z1ZE1oaG5zS21aRjVsWjF6MkYwMWVBcU9zVzJ4YXZhRlJkVUx3ZS16UHhETWdKaHlid25Ydw?oc=5"
   }
  ]
 }
