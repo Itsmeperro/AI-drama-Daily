@@ -1,11 +1,17 @@
 {
- "built_utc": "2026-11-06T11:57:12+00:00",
+ "built_utc": "2026-11-07T11:45:55+00:00",
  "stories": [
   {
-   "title": "North Carolina Man Sues OpenAI Over ChatGPT Poisoning Allegations",
-   "source": "Demokratis.co.id",
+   "title": "OpenAI Sued: ChatGPT Accused of Assisting in Poisoning",
+   "source": "Brief IA",
    "score": 9,
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE85SG1FQlRVb3U1em9CZ1g2eHhCZmRFOHdZLUZOdmtJXzlKYkJxM2RfUzktQ2FaamItNTRiaDZiWG03X2NlazFTdUhmdlJyOEZZZkJqSkJjMkNjSzJvaVB2QXRjOVptNzFvc0tnWWRiY0pDRXh1?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOT3NsNlIxYm9GYVAyNDN3VUdBdzRVY1ZDNnBOcnEzTEt6eVkwOENTQjZtMU9YS2xQdy1PckQ2SEs5a1I0WjlFeU5KQk5LSTlPeFpnY2dJcnZQc3VWbS1NY3VDbHMxdDRXa25sM3JuSEpLY0VTTXpNSUlLVlhIWUVtQ0h2OHJYT3lfZDE5a2ZLb0I?oc=5"
+  },
+  {
+   "title": "Mark Cuban Accuses Facebook of Running AI Deepfake Scams as $16 Billion Revenue Estimate Emerges",
+   "source": "Gadget Review",
+   "score": 7,
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOd25EWDhrZk5pRktscGFfUUx5UmtucElhMDJNOUNKLWVKV2hYV1FudlpnWFZzRzJBSGwtNUlMMEFnSmFvR0txZ1RsTF9qTUwtU2g2alJPaUNtcVdQNXU4dXFzZXFhWnhKeVFaYVoxenFXZ1JaSzc3YkdqTEpPU2xrUWN5SjdHRzJpLVlmN0YyQXFUT3JFN3FQZHE2cll3OUlVWFNOOGJBTkFGcFcwMVI5dWFtdlcyV2ljRHAzZkppcEVEUQ?oc=5"
   },
   {
    "title": "COPYRIGHT NEWS\u2014European Advocate General: AI training can fall within copyright exception",
@@ -26,40 +32,34 @@
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcmREeWlhQm8xWmVKU3NlU1d3aVVSSzNzUkc1VnZnWGVBZzQzc3RHX05yQ1BLX2hDZUZkQkdMbF93M2pwVDVZRk9wdWVXN1NocHk5OUJOcFFHRDZmUGRZWF80R0g1WE5MdDJObV9qZXBTWklubEFaMGNaUWNBbk41bkVpOG5XR0VSajdWTG56M0d4NUJUX2lr?oc=5"
   },
   {
-   "title": "Musk\u2019s Minnesota Deepfake Fight Could Define AI\u2019s First Amendment",
-   "source": "Lawfare",
-   "score": 6,
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZWtwc3lOY0IxRVJ2V3dVRm1Zdm85WWRzYmJMbUJ1UW5tN29HMndmTmlHd01JZ191N3ltX29vV3lOVXB4aHc0Z3kxSWxhWjE0d0kyMkI0aFJmMFI5bkFBeklnLW12cUVHYmlEX0pLMWJoV0Vacmp0V1FDS3lhNHFIZE41SkdZcmZqVTlGc3UzTEtIbzBhQ1FHZVV1d2tDQWtyMW91Tg?oc=5"
+   "title": "Estranged wife \u2018manipulated and encouraged' by ChatGPT to poison husband, lawsuit claims",
+   "source": "AOL.com",
+   "score": 5,
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMHhCLUNYcGQ3TnNXMDFRajlQRnZEWXRaN296TUprb0c5UzZ3N2tzOVZDWWM5dk10Wlp4eUVsWll5Q1laaVJZN2JjQVpIQlVaTVpQSW5zSFZ0Vm9KSTNGSGlaUzZXam1ZQ2s2dUN5RFFpYXB4Q2VrVHJfck5OQUZIQjlrMEhZSGJQSlp6Ynh1QnJrd1U?oc=5"
   },
   {
-   "title": "OpenAI Sued: North Carolina Man Alleges ChatGPT Aided Wife\u2019s Attempted Murder Plot",
-   "source": "Punjab Kesari English",
+   "title": "AI death lawsuit sparks alarming warning from \u2018Doctor GPT\u2019",
+   "source": "NewsNation",
    "score": 5,
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5SUndyTzA1cWRkUVRRMG1sYmNqSE5SenJCTHRtUEN6dHhZZm13SFMtaUxxbDd2cUxiMWwxY2hMV19qREdLWm1aTi1PcTk5cHNCMVctVzQ4b2dxY3BvVGhqRGlXQQ?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5wWEQ1RVZnbGdpeWlnWUU0bkpVTW1nUE5NVWxjcmxxV0VMMHY5bm1QZElrQTBvVGpaeVFFUmEwcG5RU1ZySm5CbXFLRlpDREJtSHd6UEdfY3FvQkpBWmhUNTJPSjZ1SzNpUzRtMWNWTUZIeEw4bjJtbmhEdELSAXxBVV95cUxOcFhENUVWZ2xnaXlpZ1lFNG5KVU1tZ1BOTVVsY3JscVdFTDB2OW5tUGRJa0Ewb1RqWnlRRVJhMHBuUVNWckpuQm1xS0ZaQ0RCbUh3elBHX2Nxb0JKQVpoVDUyT0o2dUszaVM0bTFjVk1GSHhMOG4ybW5oRHRC?oc=5"
   },
   {
-   "title": "Man found a note in his kitchen. Now he\u2019s suing OpenAI over what ChatGPT allegedly told his wife",
-   "source": "The Economic Times",
+   "title": "Baidu Faces Major Lawsuit Over AI Growth Claims",
+   "source": "TradingView",
    "score": 5,
-   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPV2J5NGVIaUl5X2F4VnFEcnFKRzZsZXp6VnF3MkVzYjh3OE9fMEItektzVmQzZEFaNzRQV1pueFhYanRLb1pZLTl2clBsMmxHNU50TVRBdllWaXVWb0s0dkFEQTlUT0NPR1pEM0w2OURHaVg0R0hmN3hOdlZCRXJub2xwd1Nwako0ZnplajNMMUhSWkJIN1k5dDI4MmNHRy1oYVZKbTFaVGVOb2hSMjJCckIxRFJ4a09MX3JjS0h1enRYWkhtS1pxY3lMcFFMNkJNYnRyMjd5d0NnZl9CcFg4NFJkcHFsazVfcm1YVW1zRmxDeTI5WUJDaUN2UDduYWvSAYQCQVVfeXFMTk8xcHBXRHZ0T1VjWDRPU0M1Sm9jeGVVLXN0Q1FCWXFFeFJ5LWtpVU9CX20tWkd0WHVOSmNuUVZwNWM0RFl0eFhGa09pd2xNT1NNQ3NrU1NLYmV0XzR6YUZGREZJU3cyby1weFJRRTFWTVZPVlVNVTlsMjBoRG43RU4wQjhUeUtyS2I2UmUxRTFOZXNQWnNpNVBkY01IRVJadHBMamVEbzRKQS1XMERxZ0lsVHBMSFlreHVlRWJlZWNfNEhiUl80V2l3RUh6cy1FNllWQ3p3UnhBTnpsMjhCc3BRNmVmc0dzdVBuaWE4bG1QQnUxY00xQ2luZTN3bVJCdW9HNUY?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNVBSTllYOER6cWFYTW54S1h0RHU5d1g4aWE2azVKRnF2WWxGUWlTZVMxdUJFRFJZa000SENrVk0zNENfX0NBQnN0aXU0ZktqcF9xMTVnQ2s4SWxGTXdibUh0Tk00MlBJeGdnOVduYjJoTkg5N2xjU0VfTmVFaW1SV1dMLV9oQlNDTExYUFN6SjNQdEd0SU5ZUl9wWjhhbE5SQ3JjbVVESnlLdkU?oc=5"
   },
   {
-   "title": "Google faces what may be the first lawsuit over AI on school laptops",
-   "source": "The Times of India",
+   "title": "Lawsuit Links ChatGPT to Murder: Is OpenAI Liable for User Crime?",
+   "source": "The Legal Examiner",
    "score": 5,
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZlRTQ2QxamdlM0gtUXRJQjZiZWstaklEVG1TMXFYa0RMbkFheEE3dHFSSzgyT3hQOE9hSEp5cFFUZWhMOHZNQVdtU0g2dU00aXdURUxlUzlRcU91Qk1FQS04YXZyNXNLaDhyZFVUSkh4Qld2aHpZeEQ0dWZDcV9iQ3ZGQ3IwVkkyOE9XelJTa3o1SV9wZk43WWNaeGtzb0lHY2VpY3pFUlVhbElJbFBMMkJ4bFBXMGdUWVkxYnByWjZlcmsydFotbW9uWElrY0FWRWxiQlJPZXM5OUdHVXhiTExxWlEyd9IB6wFBVV95cUxPbkJNa2s5cmhLa1l0cmVHN09rcFkwelZSbmc1WTdwQUt5ejZ5aHFUQW9saGtnQllSTTI4YTdRUWVmOEF4Z0U4S2RaclB5TV8zRjluVjk5TndaUnB0cGk5VkpFZjlSek9nZVlxOVkyTW9oUUp1TGlOWWRHVXl0X0VGeGJHVnlNM2p3bXluSTV1aUtzOEFQNzJNQlFSbFpoeGt4VmZheHBuWUJCbUpzeEoxZmpSbGpvdnRLWkNEbW1JRjNkWmpsVHliS0F5NzVGTU52LWlxMVgta0lZRUhlbTMyMXRSdlhVNXYyVkVz?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdFZ2SnJKLVltNWxSdmNGeUw5OXlKeXBScEViZG0wRGVwWlZyaW52aWNBX0ZKbmxDNUF6X2toWUJQNUtxc0NDS2tLVmk1ckJ6R3ZUdEVOa2p3TXpvbFIyQlo0UjdwTERwZkktaGhyaGd3SmFKTktCd1l1ckxoRWlJUE4xUzRNd3NOSkIwSjBweGNWWjNKTkxOei1VMEdfQjlrVUlRUm5SbkFuOGFhOURBYlRHMA?oc=5"
   },
   {
-   "title": "ChatGPT murder lawsuit alleges chatbot aided poisoning plot",
-   "source": "Cybernews",
+   "title": "Apple OpenAI Lawsuit Trade Secrets 2026: Latest Updates",
+   "source": "LawFold.com",
    "score": 5,
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2YS1TTjlHZW45dzJzQnRzcjMxTTBESENZLXVpaTVqallhUHFGZWZfdDFCU3NVaTVzT3RPLVdob0VqLWNhLTNQd2MyNGplVy1rTGI5VWpJS3FPdHpMeHRPRzZ2dVBOcXM?oc=5"
-  },
-  {
-   "title": "The Simpsons Prediction 2027: Trump's Presidency Warning, OpenAI Spy Scandal and AI Takeover Fears Reignite Debate",
-   "source": "International Business Times UK",
-   "score": 5,
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQ29TcURYS0pNQmJVTlBzZV9sa3QyMURKUWtFTDZqS0JPWWlBZW9GbWlwVzFLTF9PcllkNHZHczhkZVNfclVfX05xU19reTdRcFotNlFZMjIyS293dERuZzJmRVJDR3FUUDdyZGxLdkxuUkttZU1PZlNpcTBLM2c2OUktWjRCM0dq?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KeF9KeWVaakR2QUYyOURiRVJEbUMyeFZYcHNoRFpWaWdJNFhTc0hZYTB0alNMbFNnTFhodkdPYmJEdW5tZEpPRldNWkEyb2lLYTU4U1hvbUFOd1o0OGlJQ1V5aUM5dw?oc=5"
   }
  ]
 }
