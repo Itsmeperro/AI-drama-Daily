@@ -1,11 +1,23 @@
 {
- "built_utc": "2026-11-07T11:45:55+00:00",
+ "built_utc": "2026-11-08T11:46:01+00:00",
  "stories": [
   {
-   "title": "OpenAI Sued: ChatGPT Accused of Assisting in Poisoning",
-   "source": "Brief IA",
-   "score": 9,
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOT3NsNlIxYm9GYVAyNDN3VUdBdzRVY1ZDNnBOcnEzTEt6eVkwOENTQjZtMU9YS2xQdy1PckQ2SEs5a1I0WjlFeU5KQk5LSTlPeFpnY2dJcnZQc3VWbS1NY3VDbHMxdDRXa25sM3JuSEpLY0VTTXpNSUlLVlhIWUVtQ0h2OHJYT3lfZDE5a2ZLb0I?oc=5"
+   "title": "Elvis Presley Enterprises suing AI music generator Suno over copyright infringement",
+   "source": "localmemphis.com",
+   "score": 8,
+   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOdDkzSVM1aVBaWlMyR1lnUm9qQjFUSXZyYVpZaTFWdm84QWQwSjBhVjI3RG1xc19CckZfNWwyZzhPQ0N0dEpST2t2RHp6ZnpWZi1nSEVhejRHVkFyd0s5VWVpREhyZEt2X05NWDRobXNWM2ltZzBxMmJxQ0FVd1pCbjBzdHd3Z1FXZ1V1dVJ2azNucHNydnh4RV9YREZoT0JpRXNTRWdkUmJEUzBGTlZGV3laSWNyU0RjX2dzZG1jY0p3SEJDbnFKMkRLZ1JKZEtGQ0RTbVBJU0JLaDZXUWdjNFUwNnBreE8tNlYtOUx5NkNBOTJYTmhfQmRlOU5SbGk5UE5tTGREb0lkWDRHaUpyQXhR?oc=5"
+  },
+  {
+   "title": "Elvis Presley Enterprises suing AI music generator company over copyright infringement",
+   "source": "localmemphis.com",
+   "score": 8,
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQa0x0STBhcWpOek56dkwzalZicnprVVNRQmMwVGIzZFV1NWd1UXJHZlZ3SVU5cUtHbGprZ3BoV3BxaDZKMEhqZVhBMmt4SDE4d3Zia1VtamdYMzBBdDlaWllkQjI1bTByakxIcGNQQzV1eTQydml1ZXZYdDZyX250QkI0bE1qMU5RczBFeTlUaVU2NkhCSlNVRG1aRjFGSWtZTDlhWU5CMU5uNmJfbUhkMmVqcDFqMTh2ZEpPWklXWVdwbnQwZWZz?oc=5"
+  },
+  {
+   "title": "Eminem song publisher seeks $41M in copyright lawsuit vs. AI platform",
+   "source": "Detroit Free Press",
+   "score": 8,
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNV2Z1RzdMVDFtbTQwc1VqXy1SVFNPcTNrYjVNZWFUdldKY2psVnQ4TXQxUWhGQmwyLUZISE1CbWNnSGtaRmw5MDB2WjZhM3dYV0VRN2VMMXVmTUYzSm03S0VEemVwWXFhTDRLVXlsaGNzMkROR3p5SmpfTUJuYjJZS1BQMVFPNVJZNmlJNjJHM3d0ZmUzRHVHcUtybzZnUFpqTy0tM0dKLVRyS3Z1R1ZDNVBuVXhyaHBxbW1R?oc=5"
   },
   {
    "title": "Mark Cuban Accuses Facebook of Running AI Deepfake Scams as $16 Billion Revenue Estimate Emerges",
@@ -14,52 +26,40 @@
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOd25EWDhrZk5pRktscGFfUUx5UmtucElhMDJNOUNKLWVKV2hYV1FudlpnWFZzRzJBSGwtNUlMMEFnSmFvR0txZ1RsTF9qTUwtU2g2alJPaUNtcVdQNXU4dXFzZXFhWnhKeVFaYVoxenFXZ1JaSzc3YkdqTEpPU2xrUWN5SjdHRzJpLVlmN0YyQXFUT3JFN3FQZHE2cll3OUlVWFNOOGJBTkFGcFcwMVI5dWFtdlcyV2ljRHAzZkppcEVEUQ?oc=5"
   },
   {
-   "title": "COPYRIGHT NEWS\u2014European Advocate General: AI training can fall within copyright exception",
-   "source": "VitalLaw.com",
+   "title": "Elvis Estate and Eminem Publisher Sue Suno in Escalating AI Music Copyright War",
+   "source": "OpenTools",
    "score": 6,
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVTlrXzFrRVhucUJKRG1zc3VhZkdSUlR3U2ZBZG1lLTJiYmVqSzd4NzJLOGtVaE9oVzBERFQ2alVjRGlhNDNSQnVFUzVqNEVYZ3pLQjh6dHdFc3BJZnhEZVpzSlZick1BSnRzcnJySUFuTHd5Y0JtTmhtMHBLWWZLVTVTVEo4SEpiOENVWGhWWE1rQXd1YmZQdGRCVktoMmVEYVlORUZxcWE4V056OFNuLUJJZC0wNlhqMnRvV1NTek5qUm93MWllQXpZa1laY3ZaWE9nRk5pdHo2MUtfYjk2WC1LdTFSZ2g2Tkt5aQ?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT0JHUVZXNnctYlJXcl9ndDZsQzZjYWs4Z1ZDSzRIamZERU9XbnJNVEx4bXFldmZWUDJxNmt0ak9NMlp0SEpWNUYxUm1ZLVdFdGc1UVdUWUtVN0lBd0ViZ0ZaNzh1aTlqX3ZhY0FGYWtmLXlBUW5UWFJjRXNQM1lZLS1qRWdnNWdieFc0?oc=5"
   },
   {
-   "title": "Meta warns that election backlash against data centers could make AI expansion harder",
-   "source": "techcrunch.com",
-   "score": 6,
-   "link": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/"
-  },
-  {
-   "title": "Herald Press writers could benefit from AI copyright settlement",
-   "source": "Anabaptist World",
-   "score": 6,
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcmREeWlhQm8xWmVKU3NlU1d3aVVSSzNzUkc1VnZnWGVBZzQzc3RHX05yQ1BLX2hDZUZkQkdMbF93M2pwVDVZRk9wdWVXN1NocHk5OUJOcFFHRDZmUGRZWF80R0g1WE5MdDJObV9qZXBTWklubEFaMGNaUWNBbk41bkVpOG5XR0VSajdWTG56M0d4NUJUX2lr?oc=5"
-  },
-  {
-   "title": "Estranged wife \u2018manipulated and encouraged' by ChatGPT to poison husband, lawsuit claims",
-   "source": "AOL.com",
+   "title": "Lakewood radiologist took $5 million in \u2018Ponzi-like\u2019 AI investment scheme, lawsuit alleges",
+   "source": "The Denver Post",
    "score": 5,
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMHhCLUNYcGQ3TnNXMDFRajlQRnZEWXRaN296TUprb0c5UzZ3N2tzOVZDWWM5dk10Wlp4eUVsWll5Q1laaVJZN2JjQVpIQlVaTVpQSW5zSFZ0Vm9KSTNGSGlaUzZXam1ZQ2s2dUN5RFFpYXB4Q2VrVHJfck5OQUZIQjlrMEhZSGJQSlp6Ynh1QnJrd1U?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSENxM1ZsNlRpNFdva3Rlc0N5UmRha0lCZ0hoYzUwaUhCTDFyR0o2NTlwNkx0SzdxcDM3SnhkQlZZTlc5dy1aQkRwWm1Ib2J0Q0NkcFVFVnNhTVJSd1RoY3VDWDRPTzhiUVJrcHNyMHUxRjh0WVNfS2sxV0JTVVFzdTdhMWNwTnh1VHNDLVhn?oc=5"
   },
   {
-   "title": "AI death lawsuit sparks alarming warning from \u2018Doctor GPT\u2019",
-   "source": "NewsNation",
+   "title": "Eminem publisher Eight Mile Style has sued the AI music platform Suno for $41 million, claiming the rapper's music was illicitly used for training. See link below \u2b07\ufe0f \ud83d\udcf8 Theo Wargo, Getty Images",
+   "source": "Facebook",
    "score": 5,
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5wWEQ1RVZnbGdpeWlnWUU0bkpVTW1nUE5NVWxjcmxxV0VMMHY5bm1QZElrQTBvVGpaeVFFUmEwcG5RU1ZySm5CbXFLRlpDREJtSHd6UEdfY3FvQkpBWmhUNTJPSjZ1SzNpUzRtMWNWTUZIeEw4bjJtbmhEdELSAXxBVV95cUxOcFhENUVWZ2xnaXlpZ1lFNG5KVU1tZ1BOTVVsY3JscVdFTDB2OW5tUGRJa0Ewb1RqWnlRRVJhMHBuUVNWckpuQm1xS0ZaQ0RCbUh3elBHX2Nxb0JKQVpoVDUyT0o2dUszaVM0bTFjVk1GSHhMOG4ybW5oRHRC?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNkFNQjNZTW1JZDYzYnd2b1gyQ0tBOE9FYk9oTVcyR3hQc2RCejR0ZHJkNVBZUno4cjRqSHBXUUhNclgwd3dCcEljTGtiZ01pWGVGYlIyNEV5Nm1oUm5lN3I3ck1ZemFRUjJxNXp2UTV3aWJ6RXk4eFNtZHZEYmlvR2ZGaFg2bTR4WWtwQ09ZMVlfTHZ6U1k2ZzN0TEFxMmFJSzVGYzNYU2VkSkYxam83UkNFakctRE8yUUhIWjYwVm9WRHgzeTAwXzJRYkt6TVhNZm96WVZQYk4tRC1hLXZB?oc=5"
   },
   {
-   "title": "Baidu Faces Major Lawsuit Over AI Growth Claims",
-   "source": "TradingView",
+   "title": "\"Nice Face of the Devil:\" Google Whistleblower on AI, Gaza and breaking NDA",
+   "source": "Informed Comment",
    "score": 5,
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNVBSTllYOER6cWFYTW54S1h0RHU5d1g4aWE2azVKRnF2WWxGUWlTZVMxdUJFRFJZa000SENrVk0zNENfX0NBQnN0aXU0ZktqcF9xMTVnQ2s4SWxGTXdibUh0Tk00MlBJeGdnOVduYjJoTkg5N2xjU0VfTmVFaW1SV1dMLV9oQlNDTExYUFN6SjNQdEd0SU5ZUl9wWjhhbE5SQ3JjbVVESnlLdkU?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQX1VKM095ZEo0YnJtRWhjZy1jeG9kREZZT2IwRm53eXBfMHlKRlBiNkJoYUpLUDdWQ3Nxci1rWmxqWWQ0SGFFNHVUaGtUWVQxcHBvbnhFN0Zfb3dWMS1uOHNobzRhR1FmRW1QVDRkeURYaDZnMUE?oc=5"
   },
   {
-   "title": "Lawsuit Links ChatGPT to Murder: Is OpenAI Liable for User Crime?",
-   "source": "The Legal Examiner",
+   "title": "Man sues OpenAI and claims chatbot plotted with his wife to try to murder him",
+   "source": "The Independent",
    "score": 5,
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdFZ2SnJKLVltNWxSdmNGeUw5OXlKeXBScEViZG0wRGVwWlZyaW52aWNBX0ZKbmxDNUF6X2toWUJQNUtxc0NDS2tLVmk1ckJ6R3ZUdEVOa2p3TXpvbFIyQlo0UjdwTERwZkktaGhyaGd3SmFKTktCd1l1ckxoRWlJUE4xUzRNd3NOSkIwSjBweGNWWjNKTkxOei1VMEdfQjlrVUlRUm5SbkFuOGFhOURBYlRHMA?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNY2F3RTRSMi1kYmRkdjE0M3FIVDNDT0dtQUMxWGtRR0I4SVl3V0prd3dQeTJpQm9FcGswX1lWb1ppS1J6STRiWFp0TDlrVWUwMDdiTlBKaThkX1B0YVlWSE02ZkpjYkR1eVd6Q3dnMUY0YzNhWEVRZnM1WVVLME1OOFFLNTZMS2RBNEFJNjZTcnhVc0NPOVVycmFYczRUWW9uSDV1RzJma1NyMWNvakNn?oc=5"
   },
   {
-   "title": "Apple OpenAI Lawsuit Trade Secrets 2026: Latest Updates",
-   "source": "LawFold.com",
+   "title": "Elvis Presley\u2019s music owners file new lawsuit against AI music generator",
+   "source": "FOX8 WGHP",
    "score": 5,
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KeF9KeWVaakR2QUYyOURiRVJEbUMyeFZYcHNoRFpWaWdJNFhTc0hZYTB0alNMbFNnTFhodkdPYmJEdW5tZEpPRldNWkEyb2lLYTU4U1hvbUFOd1o0OGlJQ1V5aUM5dw?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQUtpaWRteDlsTmVoYnNWN0NCeXc5UzJYbTlNcGliY0ozRnZ6SHBBWXlNQVRfczYxaUxxZWs1QU0ySkRpM09qc085MXpOMUhET0pQdWNZb2xNRi1FTXVaNEdJRDdVelRUMVVEVVVVRHJDM1RFRnNlZTNGbU85Mm04ZkhZV01jelRQTEgxV2tTQ19TZ1B4c3BCcEl1WWxRQjd0SVZNMTVTONIBpwFBVV95cUxOQUtpaWRteDlsTmVoYnNWN0NCeXc5UzJYbTlNcGliY0ozRnZ6SHBBWXlNQVRfczYxaUxxZWs1QU0ySkRpM09qc085MXpOMUhET0pQdWNZb2xNRi1FTXVaNEdJRDdVelRUMVVEVVVVRHJDM1RFRnNlZTNGbU85Mm04ZkhZV01jelRQTEgxV2tTQ19TZ1B4c3BCcEl1WWxRQjd0SVZNMTVTOA?oc=5"
   }
  ]
 }
