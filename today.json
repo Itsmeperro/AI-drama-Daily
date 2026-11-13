@@ -1,6 +1,12 @@
 {
- "built_utc": "2026-11-12T18:53:00+00:00",
+ "built_utc": "2026-11-13T18:30:00+00:00",
  "stories": [
+  {
+   "title": "Nvidia CEO Jensen Huang Resigns Amid Chinese Spy Scandal",
+   "source": "Law Commentary",
+   "score": 9,
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObEpPWTVyS0pidzZjNzlMa0FDZ1ZQXzRONUdrVGZoR2tzUWRmU3ZLUDBONTZKTGpLV2JmSGVRYzRhcHlRN2VXNUhFUWdwWkJrZ1RhMWxmRnZKb0ZXWk1QYWNPdUJUZUdSSnBzZWxjZ1g4YXJZc2pYeU9ubE1QeldjYzJHS3N3TUxQTm43ZHdZdDdKUHJi?oc=5"
+  },
   {
    "title": "Jensen Huang resigns as Nvidia CEO after espionage scandal wipes out $1.4 trillion in market value",
    "source": "The Decoder",
@@ -8,22 +14,10 @@
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONWdjanExeEwxclhHaHg1T3Aybk5XS1F3TWZrajNTVkNnQldoYWswdm1GNlIyMGJzYzF5OFRTOWQ3WGk0aTgxOUE2eUM3WFBEcGE3NGZwUWFhX2piUzNkUnVpc1g3M0g2OG1KYXp6NWl3RWJSa3ZLY2F1aWt0ZEdqcUNhQWRaRS1td1dDSkxrcEdzUTV3QW1JVmV0RTZFTlZBTEVpRXNDTUxuRzF2ZkdyWVAzRWRVNnVKM3YzMFVXaw?oc=5"
   },
   {
-   "title": "Megaspeed, chip firm at center of Nvidia scandal, pledges to cooperate with U.S. investigation",
-   "source": "NBC News",
-   "score": 9,
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaGRHRkVHVWdWUDJnVWMzaVZCaHlDenNKSXpoQmVKZ3ZuNkhCYmU5RUxGdmcybU1RSkxzYTJSWGw2a2xLNWt4T1U4TWxTQjVEamZhMFl0MWFTQnM2T24wQ2xqck1QQjB1ZUpMaW14RlpNSDM0cjBVQ0tCS1ZCc3d2M3hVVGpCeERUMjhLZG5RcUtkbTZGOFZsM2dnU0F6NC1nanQxOGh3X2w2Y2FzVzlTLVdGTnNudzFhd0E?oc=5"
-  },
-  {
-   "title": "Nvidia CEO Jensen Huang Resigns Amid Allegations of Links Between Former Associate and Chinese Intelligence",
-   "source": "DD News",
+   "title": "50 Cent Turns Jensen Huang Into a 'P.I.M.P.\u2019 With Affair Scandal AI Deepfake",
+   "source": "Complex",
    "score": 8,
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUW5HR2liNmk1bF9idU5KWFBfMTBIWFZQY3l1cUVNMXA5bWRLelJlcWppblJEUm8zZFB3WEotbklnMFVaZG00Z180NUw4UUg0OHRsZ0dpZmxxWm5iZVpnQjNaZENXand3ZGdiQjUxamhLV0J1bno2dnRrN2RtUjN1REdUZlRid2NldDBqdHRTcjJxd1FTU2kyTC1wc2NlLXlKSDYzc21DQW9NZ21DUWVzMFAta2RjbkxhMFc2V3RFRTh5TXJoUFlhOTYtbkc3dw?oc=5"
-  },
-  {
-   "title": "Elvis Presley estate shakes up licensing, copyright lawsuit against AI music generator",
-   "source": "ABA Journal",
-   "score": 8,
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbFZRcG53LWl5UllpanljX0xwTHdYeUtiamZoSmdfMnQxbDZTbmktcWk3bWJJQTFtVllJXy10aVpPLVFELVYzQlRHdlZjbkpsMzJXdEtMSWZ5aWs1NkxQUWxRYUhoanZsMGFYc3h6c242SHJkY0xvZVduYkNKcDg0ZU5Kejl6d1BISDByNzRoLV9lQlRucGRPeE56RzhYNDFhZzRXU2JTUGJLb3BMcnlKclRjRFkzOGs4T2J1bDJqYURjVGM?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOTVQTDRpczRpZE84X2xMUE1qQXZMdmdTMTdOYnlCdloyNTFzR1J1WF9mRFRrMTVNbHlnTGsxd0MyWnkwQzc1bGFlTG9FMFktamdPZFRJUUtxaXZTUDdIV2FZT1IxcnVUWEVLandITkQ3aW9oR0NRWjlqbjIxbVp1QkRQVXJ6Sll2dG5VVFRHX3owWHZXbW5wOEdB?oc=5"
   },
   {
    "title": "Gal Gadot Deepfake Video in 2017 Exposed Risks of AI-Powered Identity Misuse",
@@ -38,28 +32,34 @@
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVERVMHpGRTdJWkp4X1FKTTk2N3VEQjhrRVRJSklGY0poVEM3a3dybHVpcW9yZzZGMmN3YlNYUFRZcnRCVWZ0VWtMakdadUg2NWpLZHhEdVZNd1U5X2t1SExpLUpRZ2FZb3pXbWJleG5qSjhSeWhpZXlFTl8zMUsyMV9kUTlpOUFfSGEzblBwVk5pWjZiQzVjWXh5d2psR3lnSzFiRVJzYUhwQmhmejJ0R3dmX0k?oc=5"
   },
   {
-   "title": "Meta and TikTok join Google to fight Indonesia\u2019s AI copyright bill",
-   "source": "The Next Web",
+   "title": "AI deepfake campaign stole influencers\u2019 faces to push trade war, Alberta referendum claims: study",
+   "source": "The Globe and Mail",
    "score": 6,
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xcGVhWHR6TC11MWZPbEtpOGJueHZ1V2dtRTJoSVNsTGlGTDJjSE1pTlRuR0w0bk1FMFFvemI0VVdLWEl3c1pYV3h1SXQ0eEFGRk1pMkJSbWdBNE5fYXpwc29GOEI4ZmRuenBab2psRk5WVG5tRDMtYXpNeUxyeW8?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdW1PTnpHaXR2VWRNN29Ra3ZHZzVnY2l6RUJWeG9hb2l1Sm1mN2QzZ3ZicENISDRBSWwxaWtNeXF6R1ZJT0pjeFU1X1hQNlV3ZTdzVW1qaGNfODZ5MkIyMHRqRUVZMERiMmRNZS15cURiaTJYamx0cnhoT3ItVjNnakFBaEM3VmdHYXBfWF85M0xzQlQwdHh5S0pWQXNETklJbmxoY2U4ZTh1ZmNrVWVfeW5R?oc=5"
   },
   {
-   "title": "Secret plan to weaken copyright for AI",
-   "source": "The Australian",
+   "title": "In landmark AI copyright settlement, this Keene author's getting a cut",
+   "source": "The Keene Sentinel",
    "score": 6,
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQzdHNHkzRmVkX1RSRm5VZ2FhQzk4ZDkyaFNUMVJlYWFJRzduMFJXMGoxQkhOWGtLUXZqcEIxa25NMmQxT2YxN0d1d3FtSFhIOFlwVEkyOXNpLXdsbklESE5MVVJPUUh5Q3d4X2Z4X1pHVTZ4TDVhWEQwYVpRVkFhUXJvM1I2LWNFbW1HQzZJOXJrcVZnVnZnS1I0eUlHRmJ2eEpIUm1fMmtqOXh2aFR1dnZJRmNfenk2ZnNMYW5HbmxKeWROVGxYUmtVbkNMNjdOTWVfNDNsN0EwMjJ1M0E?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPaEN6YnRaWXBZbE9LZk1KTEVJN21oM0NtRlo5ZFExMFNuVElHTzB3bU1jWW1mMFREYTRkSjRIYUdNdXdBMzY4ZU90THQzR0lxQlhFallIYTItSnZ3VXpFZnp6eUtuLUpMTmJlWTZiT2g5RDFsemxUUmFoVGNiT1dmUTZzWlM5UmE1cWU4SWxROTZ3YzZPMXR0Z1htMXU1cjhJcmhHaEpqemp4UnlMb19SdWFtUHpjRUVhYTZHVzh3bEdKM2wtM0xzTDgxOVF3djRwV2dCc3NvWXIyZDQ0SGJ6aUJ1LXYwMkRP?oc=5"
   },
   {
-   "title": "OpenAI, Google, Anthropic hit with lawsuit seeking halt to frontier AI development",
-   "source": "Reuters",
+   "title": "AI Lawsuit to Freeze Frontier Models: What It Asks and Next",
+   "source": "ShiftDelete.Net",
    "score": 5,
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWTR4ak5BdnRmV3hzYTZOcVhBYklWU01YRmtLak03b2hmeC1PMTd5blRQWUkxR2Q1ZXZWRC0xNkNxVDVoN2VOdTVlX1hFMXgwS1Y5TW1fUGt4NThQaEhRVFdna1YxUDhLTnBYUFJ6WTlFajlLM1BZTTRwNk5sWFMydkZtMlJNUnU4MWlDcUN6QmNtVHdUT1pLNXd6QXc4QVk0WmMtM1JxWU5XVC1PUGRIMVJNY2wzN1Z1d2N6WWJkbw?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9NTkNQb2hkU0FkNmNGM05CWTJhVUtPYWU4eEl3YXFCak42SXNtQXlidU9RZjZ6d21OOXpDdGh3RE1YOHBVMUs4UURSS0RMTVNBbzVKYWc0OA?oc=5"
   },
   {
-   "title": "13-Year-Old Used School Laptop To Plan Suicide With Google Gemini, Lawsuit Claims",
-   "source": "NDTV",
+   "title": "Coalition of Nonprofits Files Landmark Lawsuit to Stop Development of Advanced AI Systems at Anthropic, Google, Meta, OpenAI, and SpaceXSI that Proliferate Bioweapons and Cyberattacks",
+   "source": "Benton Institute for Broadband & Society",
    "score": 5,
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOM3BvaWwzMEFVQTBKblU3U3RPLTZYNnJOdmRCcXl1YmRDSmlhaS1GNjZRTm1FREN6NzlGMUhNb0xtSnZxcW9DVlFTZFVPVXFvZmh4dHpGUktGSDZBWjJMbFRySUpkTmh4cVZiSUtHM1NFUll4N04wN3hMMWpjVGstdmk2S3VVRXExUzBiYkpIaEJqSWtLRFZtOFMwTjVVRlctV3NLaF9kbFB4WTVJTmdwYk9BdGJhZ0htbUNSYlVsUl9fTkxuV3fSAc4BQVVfeXFMTzNRRTRXMDdQdFdKTmxiSDVwcUh4SVpsNFhzYVhhQzJ1dV9VRkJETW1nVnlSNERVXzBsY0NoUzBUWXVtSm45V0hCTmZsRFFMRUZrdW9jM1kxQnlXOGdRbHdWa24zTDI3SjhhRGJlRXpjRFNsOS14RHFidzN2RkFnMXhJOFlKenktUHloNEUzandGUW15YmhNanY5Y3lyWDhVOGZIel9tUFJHQ0p4VlZtX29seU9yS0VKeTAwZC1UR1F6d0tfeWxvVTBxRlJVOWc?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOXhwS0l6UmdZbzNOLXdkbllBQWZIbGNkaXpRMlBNNzZYWjd4dU5UbW5VYk1KWnJZMEVhbmMzNWRuOEJ5aWVsNF9qQk9kOVJpOVhkZFBPelBpZVNJQ2RqZWZESDRQRXZsU2FtdmJqZlkzb1FxaTRTWW1sdm11Y3Fwck9BUGlPWkduMlI4eWJlUXpwTHZHb2gyM0IwR1d3UnBiQzZXX3VZWGdLTWEwc1NKUXF5dmU5NWduT1o1UF9FcXc?oc=5"
+  },
+  {
+   "title": "Jensen Huang scandal trail leads to Alibaba, the king of free Chinese AI: Chart of the Day",
+   "source": "Yahoo Finance",
+   "score": 5,
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQlluSFJQZVVhTGNaeU9WUGVVajNBbVFoVkFjSENOckpJUDFpdUtzWmdwNFJacXlaMzFQU3BMLWQyaWthV290WWFaaW1EcXE3anQ0X09abXU4U09mTmxFU2ZpOVh4dnBNdnJjUk1KanozM2w5ZzFMSEtTdjlxdEFoZHR2WXdqRERwOGp5Y0MyQ0FQOHI2NjZqUk5xR2xQUF9NcUtwcDJiclZDaENfbTNVM2tzZmwzVXFNM2ZqMlUzQWRHN2xaaHZUUnRtMVZnWjJYTUQzMURMc0NOSFF5QWc?oc=5"
   }
  ]
 }
