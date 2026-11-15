@@ -1,23 +1,53 @@
 {
- "built_utc": "2026-11-14T17:03:45+00:00",
+ "built_utc": "2026-11-15T17:41:35+00:00",
  "stories": [
   {
+   "title": "Nvidia's Jensen Huang Resignation Saga Escalates: Rubio Accused of Rewriting CIA Memo, Anthropic Drawn Into Leak Controversy",
+   "source": "BigGo Finance",
+   "score": 12,
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBxdERUdlVXQjhXN0QzQzgtWjJPaGlVQjVzNkFWc09aTFdQV1dCWE4yZVZNYldaVE5vZ3ROZmVONEloMlMtUXE3Mk9FaTZ2RnVjUUFOTnhXZEMzelhoM2Uzb0JxR2poeVAzbFg3ZjZfOXlYRzVhZXc?oc=5"
+  },
+  {
+   "title": "Nvidia China spy scandal sparks bipartisan calls for investigation",
+   "source": "The Jerusalem Post",
+   "score": 9,
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1oTjJMNXlvMl9SWGZ1c0JRZjBiVmt5cXNZLWVKN0h6YWhKSXdwU1QzTXplalZ3Qkdla1FtbDhKQ3dEZHljVE9kRDhQdU5xUWJtZUg2N0lmTGtHLTBPY1dIeVV5bnU?oc=5"
+  },
+  {
+   "title": "Nvidia\u2019s Ousted CEO Gets Fresh Subpoena Threat From House GOP",
+   "source": "Bloomberg.com",
+   "score": 9,
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcWx6SzE5MzRzYXdudEFUQnpfRTItZnRQel93TFc2aXNFS05nWmY1T2dLT2ZabWlrdFc3bENFQ25YVnVmeVhUaFM3di1EcWVvV29zWGdlQ0hLcmpsbkFBWmtHRWFBQW51TmZxTEgwdFpRZEp6N1hhSVFVbWVEQ2h3a1YxZ2l5SDdON2tFMnpfbTZqRmxTcF9QcExYNnEzYVd5VWM1ck1LZEQ0cU5jQUxub0pB?oc=5"
+  },
+  {
    "title": "Court allows news publishers' copyright lawsuit against OpenAI to go ahead",
-   "source": "CTV News",
+   "source": "BNN Bloomberg",
    "score": 8,
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPb2YwYWxMdkRpaHJYRWFlTVdDMkpoRlg0TEN5UlNxeEZtTjItWnJCUDd3YzEwS19oQ3B0c21EdTE5ektQRmE1YUp1c3BIWGdfRW5FNGJKRGduQ2JYWEZVY3p0Tnoxc1NUZmNyYVk2TGRqdnQ5am84bVd3QUplOVl2TlFIZENGaWVlS2lmb3dTcFhnWm8xenAxVDl3SEgwMFJDRWU4VDlBSnJRR2dDRDVUMlVzUlI?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYW1udXJWOVB0S0VtcWVEdmRpMnItNElhWFhpQkVGT0VJVW54dmhQOHNZMmpqbks2NmctWUhyYnJIVjNKeG9OZmlMZ3I3Nkh6X3lXcjlvUzRwdUw1N1pROTgxOEYzbWZLRnIxM2Z1MzNOeEFQTzZmWDhpZmtjY3hFRUhGZDVmT29mQjlDX2JzNHdWMDJpc3hmVWJDYnJSWXdhRUlvMjZBYTFOWk90R0cxNW80dUxGM2laVkNfeFljYjBDTnVlaVl0QkVVZkxlNnVVOE1vNkVyUXhOU3Z6bHE4?oc=5"
   },
   {
-   "title": "Jensen Huang resigns as NVIDIA CEO amid investigation; Colette Kress named interim successor - KWXX",
-   "source": "Hawaii",
+   "title": "OpenAI loses appeal to dismiss major copyright lawsuit by Toronto Star, other media",
+   "source": "Toronto Star",
    "score": 8,
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVk9UMzJOdERGU1Rkcmx3UkJrZWkyUlUtR0E2ZkNSLXhRN1pWQmgxOVItZ3VTTFVTT0ZUS3Q5aE5SekFxMFJpUDc4YU9xQWV2VE1USDNmVGZyYWVxQko4MkFiaC11am05WVpKNEo1Z0lNM1BKZG1mVlZjYzNnYVlQZFo5clFzTTV2blJxR0hhdkdhX3NlbjVQTVE2b3cxd01abTNCemYyUlB4Z1ZSMGZaTkFvVXNwUjM0d3VjcG1wbklaUQ?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPMHdNZHkzeDJ1VmlweGJJR0N1TEJfMkFCbzI3MExRbEpMZzQwRXZ2dEVJS2tSUFQ2ZjgxdklxaXphNXNNWTNoclVHMDRLUG9Gc3RMZk14NXotOFRQLVRrUlNwdHVFdy1sUzRxMzJXd0s4SGttMy0yeHRhZ3ByeDBaWk1EOVJxRVZMQWpjeVpNSlc2MlBkYllJY2dKbjVDdkx0cU5ZSGdqVm9jcERCVEo1VTJQUFlNMG9lWjBnRGtjWkhDMU96Z3VnU3F2NU9FMmpqWENzQTdFREEwV3RKX2JJRlpZV0Y5U0E3YUhuNjJoTC1BYW9WeXZ0WUp3UDE?oc=5"
   },
   {
-   "title": "50 Cent Turns Jensen Huang Into a 'P.I.M.P.\u2019 With Affair Scandal AI Deepfake",
-   "source": "Complex",
-   "score": 8,
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOTVQTDRpczRpZE84X2xMUE1qQXZMdmdTMTdOYnlCdloyNTFzR1J1WF9mRFRrMTVNbHlnTGsxd0MyWnkwQzc1bGFlTG9FMFktamdPZFRJUUtxaXZTUDdIV2FZT1IxcnVUWEVLandITkQ3aW9oR0NRWjlqbjIxbVp1QkRQVXJ6Sll2dG5VVFRHX3owWHZXbW5wOEdB?oc=5"
+   "title": "\u2018Deeply flawed\u2019: Former ACCC boss slams opt-out AI copyright plan",
+   "source": "The Australian",
+   "score": 7,
+   "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOS1JhREtVUHRrS3Yyb0lJdHR3aThZT0c5R1p0SWVvLVUzZ1ZPX2NLcDNWTEJ6UVg1ejNGYkI5b1E5ZzNxRVlmQXBHeVhaUnVsVXlWeTZTZW5zTUNtLVJ5WTJDbEk5M3pmS2FSTlktdGV6Z0M3ZkhHWTl1UHhCanFKRFZGT3JFby1VVV9YQ2FmSmg5SFNVRzI1RTI5QUlGSnRpcG9wYUxiZ3lkbWoyNDFDa3BBQ1BlY0k5RzlNWE42UVU2UXJQcnNRWUk0R0k0N1hSRUl1NUFvOWVaWWdMNUZPcW1fa09ZOUhyLUR2SWJqWVdfYTNlRncwRGVfWGpSc09JanpSbmNLZHduSFR4a3hrMFRlU2oxUDRFSjJoVUxPZmkzREp3Nm1Ua2FR?oc=5"
+  },
+  {
+   "title": "Revealed: Claude Code's 510,000-Line Leak Exposes the Hidden 60/40 Secret of AI Engineering Success",
+   "source": "Alpha Match Technology",
+   "score": 7,
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE51UUx1YzBrclREUUtIQlNHblpRTnpJcjZ3WHRacXJXZVFFZm0zMmlEWjhuVWVscU1zdEZ2dC1yUTQ2N2tsTmxRa2k1STVDeFhMYnp4S0JqRXc3VkIwVFEtRnpyMnhaVXhZaDcwN0Y1OHEzcTZnZ0dJazQxVG0?oc=5"
+  },
+  {
+   "title": "War without human involvement is becoming a reality: the UN is to discuss a ban on AI-powered weapons",
+   "source": "UkrMedia News",
+   "score": 6,
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcDgwN3ZNbWF5VS1ZamNkdHpSdGh1Q2V2MzhQTURMUGhEUjRLbkZRU1ZBZFZXd1N6VktHNVQxTzVKNzcyMGVxV0FMX1lUZGx1N1JtOFl1dFdsWlIyUTV0NVpDS2FGcVVOSGdWUHBwcm1CMEZHaHhRUFBEYjIzNXBGa3lsdjJ6Vnk0bGhJYW5aNWc?oc=5"
   },
   {
    "title": "Other Barks & Bites for Friday, November 13: Tech Giants Oppose Indonesia AI Copyright Bill; Netlist Fails Appeal of PTAB\u2019s Motivation to Combine Ruling; and CJEU AG Says General Court Erred in Reversing \u20ac1.5 Billion Google Fine",
@@ -26,40 +56,10 @@
    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPczlmbGdYQ1NyM0ZVdFk4V3NVTXZnQ0JEZDJWV0JtUUJ6NkxMVjllMW16RFBuTjlNWkp2MlFoNDljMnJWN2JpSG1FaU1wOTF4VGw0d1NBSlhrREFuOGFRTlNvaXVhM3VBNDBrYUViRVFmN21saGQyYUhWMTZkdWpsMFJOY0p6U2N3RHRIV1V4V1hzdmh3eVk5S2dCdE9LdGpkQTlFLW9QMkJqNXVVbkJsbERRRWt2a2hxT0NrRmFBcU50ejllaWItX0NFU1VuNkpTWmRILXQ3YWJXTnBC?oc=5"
   },
   {
-   "title": "AI deepfake campaign stole influencers\u2019 faces to push trade war, Alberta referendum claims: study",
-   "source": "The Globe and Mail",
-   "score": 6,
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdW1PTnpHaXR2VWRNN29Ra3ZHZzVnY2l6RUJWeG9hb2l1Sm1mN2QzZ3ZicENISDRBSWwxaWtNeXF6R1ZJT0pjeFU1X1hQNlV3ZTdzVW1qaGNfODZ5MkIyMHRqRUVZMERiMmRNZS15cURiaTJYamx0cnhoT3ItVjNnakFBaEM3VmdHYXBfWF85M0xzQlQwdHh5S0pWQXNETklJbmxoY2U4ZTh1ZmNrVWVfeW5R?oc=5"
-  },
-  {
-   "title": "In landmark AI copyright settlement, this Keene author's getting a cut",
-   "source": "The Keene Sentinel",
-   "score": 6,
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPaEN6YnRaWXBZbE9LZk1KTEVJN21oM0NtRlo5ZFExMFNuVElHTzB3bU1jWW1mMFREYTRkSjRIYUdNdXdBMzY4ZU90THQzR0lxQlhFallIYTItSnZ3VXpFZnp6eUtuLUpMTmJlWTZiT2g5RDFsemxUUmFoVGNiT1dmUTZzWlM5UmE1cWU4SWxROTZ3YzZPMXR0Z1htMXU1cjhJcmhHaEpqemp4UnlMb19SdWFtUHpjRUVhYTZHVzh3bEdKM2wtM0xzTDgxOVF3djRwV2dCc3NvWXIyZDQ0SGJ6aUJ1LXYwMkRP?oc=5"
-  },
-  {
-   "title": "The OpenAI board member who fired Sam Altman says we still can\u2019t trust AI CEOs",
-   "source": "theverge.com",
+   "title": "Nvidia scandal puts Trump\u2019s commerce secretary under pressure over China chip exports",
+   "source": "Philenews",
    "score": 5,
-   "link": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview"
-  },
-  {
-   "title": "OpenAI, Google, Anthropic, Meta and SpaceX Sued to Halt AI Development",
-   "source": "Coin Edition",
-   "score": 5,
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZ3VFV29jRmRaVHlQN3E0RTVKMG95Y1lWd2dFQV83d3lWZWlkTU1ZejNHdW5YSEV5MVdDRS1YX3N6RW9jaFduVE1hclJlVFF0dUpMVWt2b3h6aFBKdjVDODlWMVZNMFBUaE9pbUFEX2dBVlFaX1JZMnpfd3JpSnZKdlpnVDlGd29ZaVpWZGpPclJqYlNUSV9r?oc=5"
-  },
-  {
-   "title": "How Nvidia scandal, Anthropic IPO may impact your 401(k)",
-   "source": "CBS News",
-   "score": 5,
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNGgwZGJrZktkdHVNMnhKQjBRWk83dC1rTFNKZkxMY3NPSTR1TEhNQ184MnRVWjNHS2JKLUdxTHpUb21qb2J0bjRwYjZIS2RzbTBQdlFKN3NLVW1RNl90VGpMdTdEa0FzOFM4elNyVnZ5R2xuTkdvWThwZDVzc003TWUxTDl5SURXTDB5Vg?oc=5"
-  },
-  {
-   "title": "\u200bAnthropic Faces Trademark Infringement Lawsuit Over Mythos AI Model Name",
-   "source": "The 420.in",
-   "score": 5,
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVGUzXzNFc1JodlliZi1mbFJZSXNjZW1CZG40UHlvczFCNkZ4ZVpScG5PZ2hJdndUQlBwSGtYdXg5Y29qb1FBR1M5YS1RazRHdnc2Q2dzT2lfUldzaGxtdWRpVkV4WHhqOG90OXNNUEdRV3hQcGZWT1E0SWY5ckxjT3VqTmZwRGJhaEJwTmFrQlhxbWFvM3c?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYUU3bHdNa2VaOGZFQWtzZHJRRVkzcXZDdFotdVFaZkhFdnhMWEdtWEhmXy1XbmdhQkw3VWFLNTNRQjRWQkZsa1pOSWcyT012VUdWRTlDcnNfeWIyeWNoVEdWQXM1aDgxdE9xYUc2MEdRcE5TZVljOWxyd0NqelN1MnJFN2ZldHNlaGJyRG83WExibnRSWGpxUE9R?oc=5"
   }
  ]
 }
