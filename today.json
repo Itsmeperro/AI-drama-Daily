@@ -1,6 +1,18 @@
 {
- "built_utc": "2026-11-23T22:37:14+00:00",
+ "built_utc": "2026-11-24T21:09:36+00:00",
  "stories": [
+  {
+   "title": "Australia accepted an apology, California sued OpenAI over its rogue agents.",
+   "source": "Politico",
+   "score": 8,
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVWNLSE5lY3FWb0pPUFJKSTNVcG9YSnJobk45Y09rUFAwakpQRzlpTS02OXhSNjJQc1hiNmFLdXZad0RuLTZXcTVmUjZ1UGNQamRpU0xmc1VrWjA2TTdlRWhaQzY0MmViZEhZX2p6ZUo1VTNnTUhOZWJVVF9MWVpKUnJUZk1jVUlUV3VWTndyNzhOdUlEUUZlM3lMOUUzT0VQTWxDNXdrWHFBNHdJOWl1SjBBbnRJZGtJWGZBUURfX0xHQQ?oc=5"
+  },
+  {
+   "title": "[Insight & Opinion] Incompetence Exposed by 'AI Controversy'... Education Ministry Must Change Now",
+   "source": "\uc544\uc2dc\uc544\uacbd\uc81c",
+   "score": 8,
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBmYzRkaHVkaUZjLW5LVnh1SmpoNHBLTVpURUdIX0lVb2haM2E3RXVMblJJVXYwTC1lMjItNUdtM3VwLVNRdFhobkl4cEpLaFdlUk1neW9DanJYUEsxQ2xKRU5XVlA?oc=5"
+  },
   {
    "title": "Musk\u2019s xAI Sued by Virginia, Oregon Over Deepfake AI Porn Claims",
    "source": "Bloomberg.com",
@@ -32,34 +44,22 @@
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWnltY1Vhb0VVUmpfWFh6bHVEWGpNX1lyVTFZcE5xbjd6NjZFWE1ZZlBoVXBIOWs1OUNuQk50SEZCZmtBMXMzTWRscTluNXBxLXRua2tIdFVLeTNuaEVEakpTdFozcnhaS1A4M24xc3B5ZW5VYV9lZ2FBSWlTRi02RlY0UmxuWnlqTktTd0pMVEcxUHJ2RFE0Skt1eE04THRfallSNUZ2NkxJQ3k1UGt3?oc=5"
   },
   {
-   "title": "Virginia AG sues SpaceX, X and xAI over Grok explicit AI images",
-   "source": "FOX 5 DC",
-   "score": 5,
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE10OW10YjA4Q2hVN18yLTVBSlpHX3FEZ1NnYTI2WTQza3c2SktMel8xMmxXZmVOS1NHX0VBVUN3a3JiNUxDNFlESEt5S1lOM1hKeTRacFhfNExncFZhRmfSAWNBVV95cUxOM2VweTZEdm5mQWhwYlQzX3doYzRYNHNZdmtLVWdUTzhxMmJLWGhiMjFBNTE1RkxJbXVBYVFMQktmYkpKSXRBUlc3cnJ3YzJjeTJNbGZJOU0ycHQyWGRkRzBsSmc?oc=5"
+   "title": "Labor wins Coalition support for AI copyright change despite backlash",
+   "source": "ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+   "score": 7,
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOc2ZncVBOVXBmOXVvMHNYWFpidDZ0S0k4Y1dTSVlEZDU3c3pVQUxUdnpfNm4xeS1XT0xpUENiVjRNUk1GbWROY0V6OXpjeFk3VDRWVkdSSE9jMVhhZ0VtLUxTTmlqNnNDNDNkd0lGVkVtR1IyTkZpcnZ1YlE0Si1reWZXaGYySENJa25TdVV4NllFUWgzLXpVQg?oc=5"
   },
   {
-   "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
-   "source": "TechCrunch",
-   "score": 5,
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQk4yM2pqQ2pyak9FMWVyLTdZZTQ0ZkdBVE91U0c1ck13RXBCYW5sR1dJMkUyZ3lISHFvUmpLVWFqa2RFV3lLa3FiNXd4RzJXQWJSQXJtV19wOGtkclVockcwTmw0S2wzQ1l1QkZ5TFh0Q2dtenZNLVQzOWg3WTRtWmFLcGszY2V6R3JtWm1hQ0lOUnE3NlpwSzdJRHRHS0xpSFlyTTBTRi03cFFtU0xzOVc4TldfMXc?oc=5"
+   "title": "Japan Agency Finds over 80% of X Posts Flagged by Govt AI System Infringed Copyright in Crackdown on Piracy",
+   "source": "The Japan News",
+   "score": 7,
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB5b1NnMGRNemlrOGtUOWNGaEIyS2Q5WVlGTWRIejVhY1NfU09NRWdnTlJHNWtCZUFLVU9VNmx2N3E5Z3RHU2NiOE0xSGItUE9YX1NwcUNROVFyOW1zelkyS0FwdmppcW53LTBuaE90QkpyY0Z1MG8yRw?oc=5"
   },
   {
    "title": "Oregon AG Rayfield sues Elon Musk\u2019s SpaceX over AI-generated explicit deepfakes",
-   "source": "Oregon Capital Chronicle",
+   "source": "Bend Bulletin",
    "score": 5,
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUnVwQ0UtUi1qeWxaZ2xra3Z4cXM4NnZHRVgtTUNJRkhWbHM2UldmVG1TOWVLUUxMNVJwTkIwM1JjOENkbENQX2REOGZCaVNkMlhSblVseWh3bWRYOGk2ZWlyWTNnQXFQZ19rSEJhMVNqeWJJX3htai1rRUh4NFl2RVpSbnVIU1pmdmpzZm1na2FHeG1mNUNoMGJFR1pNQ1VtRlhPMENvbUJJajA3YU94NV81V29IWGxHUXVoV0ZPWGJicW8?oc=5"
-  },
-  {
-   "title": "As Meta as It Gets: South Carolina Business Owner\u2019s AI Agent Sues Its Creator",
-   "source": "FindLaw",
-   "score": 5,
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQ1J2M2RfajR3UVFGOTF3M3hmYXlrWmI1a1ZLMXdrOUFyM0lyZ0t1bGZqSWNvSEs1WEFEZDBqdGZaVnpfUzRUanY1QkZSa202UC10RkxSX3dvR0hlcjBKSTFaZ1h1YWZqM3FGbUNOaVFYeUItcnZQVGt2aEV1SThkeWkyeG5VVWxTakd4SnRBaEFGMkpvYnBHNkVYNXN3Vl95UWx5eHpwMDNzc0dmZlc2aVp2dndXbVFvdG40dHRR?oc=5"
-  },
-  {
-   "title": "The Jensen Huang Scandal Is Getting Worse at the Exact Moment That Nvidia Rehired Him",
-   "source": "Futurism",
-   "score": 5,
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5rcFJiUzlNM0U2aDRERldyYmgwSUxaM19zYjM1bklHbEd4bEVVMVRlbFZjeDY3aEFDd3lNckdYVEJNT3BEUUZ4TmhXeHQyQ1RLZFA3Q3dpS0J1Z1hucU5WckN0cWRtZFRHSmVscFMzM20xcDZWM3hxQ2t3?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMHFXWFNTVzdXWlRrRHZURUFUY1N6UG42TmNkbWdJVXdXU0dRY1VQTjFFVlhvRGFEeEw2QnNXZUxrN19wdXZYbUxUTHNGSVdSSGswNjRMNmJSVFJmM3FXZFZSZ3hjbGJsVnBrZXZaSG5XQW9WSkg2bjN4bGxpbW13UnlZOTQzSTBFTzhXNGZ5aUQzSTJrUXdOS2wzd2kyVExRZE1scjg0X2pUaU9NSmdjNXBnNFh6UQ?oc=5"
   }
  ]
 }
